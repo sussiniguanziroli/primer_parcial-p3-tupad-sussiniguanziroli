@@ -35,6 +35,9 @@ Patricio María Sussini Guanziroli
 4. Abrir navegador en `http://localhost:5173`
 
 ## Video de Presentación
+
+**Link:**
+```bash
 https://youtu.be/6IgaP3GJeVU
 ```
 
